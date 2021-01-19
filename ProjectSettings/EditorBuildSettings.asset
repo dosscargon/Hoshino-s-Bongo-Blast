@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 39eebb34df5e19a459cd0d2388533ce6
+  - enabled: 1
+    path: Assets/Scenes/DifficultySelect.unity
+    guid: 61fb567e6b4a0e1419e8f07b9a9d0b45
+  - enabled: 1
+    path: Assets/Scenes/MusicSelect.unity
+    guid: 40ec7a207e35d1944841b4ddca5c93e0
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: 96064575a95cf2c4493f794f5a072ce6
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: e6b99916eb803d2439b2c0f6a1b2acef
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: 35aa99a3cef4913478ea330160e9f583
+  - enabled: 0
+    path: Assets/Scenes/Credit.unity
+    guid: 32053dbbb32d2c5418535c9a06c9db2d
+  - enabled: 1
+    path: Assets/Scenes/Koukai.unity
+    guid: 7f5148fe9a76aed4d96a4d907acad0a4
+  - enabled: 1
+    path: Assets/Scenes/Option.unity
+    guid: 57371ceea759e1a48a29946c25158c81
+  - enabled: 1
+    path: Assets/Scenes/KeyConfig.unity
+    guid: 09cd6d156443e704bb0e6c09987e059e
+  - enabled: 1
+    path: Assets/Scenes/JoystickSetting.unity
+    guid: 960fe0face43a694c974af76638391bd
+  m_configObjects: {}
